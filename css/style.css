@@ -1,3 +1,4 @@
+
 /* Color Scheme */
 /* Primary - #5e17d8, #551db7) */
 /* Secondary - #D6FF51 */
@@ -21,7 +22,7 @@ h1 {
 	background: -webkit-linear-gradient(#5e17d8, #551db7);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
-	font-size: 40px;
+	font-size: 35px;
 	font-family: 'Londrina Solid', cursive;
 	flex: 3;
 }
@@ -156,7 +157,7 @@ i {
 	padding: 0px 20px 10px 20px;
 	margin-bottom: 0px;
 	text-align: center;
-	font-size: 23px;
+	font-size: 25px;
 	font-family: 'Nunito', sans-serif;
 	font-weight: 700;
 	color: #4e1ba7;
@@ -193,8 +194,3 @@ i {
 		width: 100%;
 	}
 }
-
-
-
-
-
