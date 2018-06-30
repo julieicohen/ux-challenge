@@ -67,6 +67,7 @@ main {
 }
 
 button {
+	background-color: #ffffff; 
 	border: none;
 	color: #5e17d8;
 }
